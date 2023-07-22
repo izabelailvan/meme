@@ -1,0 +1,24 @@
+#box{
+    font-family: 'Libre Baskerville', serif;
+}
+
+img{
+    height: 400px;
+    width: 200px;
+    border: 5px solid whitesmoke;
+    margin: 10px 200px;
+}
+
+h1{
+    color: aliceblue;
+    margin: 10px 86px;
+    text-transform: uppercase;
+}
+
+p{
+    color: antiquewhite;
+    margin: 10px 46px;
+}
+html{
+    background-color: black;
+}
